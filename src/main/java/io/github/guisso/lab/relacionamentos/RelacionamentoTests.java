@@ -62,6 +62,8 @@ public class RelacionamentoTests {
         
         
         System.out.println(">> " + pessoa1);
+        
+        System.out.println(Util.cpfValido("\n3~35.140.906-10"));
 
 //        // Qual é o email da credencial do guisso?
 //        System.out.println("> "
